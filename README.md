@@ -1,4 +1,4 @@
-<h1>    Hey I'am Omer Çınar Benli</h1>
+<h4>    Hey I'am Omer Çınar Benli</h4>
 
 <h3 align="center">GitHub Statistics</h3>
 <p align="center">
