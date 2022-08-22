@@ -6,8 +6,8 @@
 
 ### 📞 &nbsp;My Contacts
   
-**My Github** - https://github.com/cinarbenli \n
-**My Discord** - Buff#7415 \n
+**My Github** - https://github.com/cinarbenli <br>
+**My Discord** - Buff#7415 <br>
 **My Support Server** - discord.gg/b8EfdJPpPS
 
   
