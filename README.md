@@ -2,8 +2,6 @@
 
 <h2 align="center">GitHub Statistics</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CinarBenli&count_private=true&show_icons=true&theme=onedark&hide_border=true" width="%100" height="150px" alt="stats" />
-
 ### 📞 &nbsp;My Contacts
   
 **My Github** - https://github.com/cinarbenli <br>
@@ -11,7 +9,6 @@
 **Unturned Store** - https://unturnedstore.com/users/181 <br>
 **My Support Server** - discord.gg/b8EfdJPpPS
 
-  
 ### 🛠 &nbsp;Tech Stack
 
  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
