@@ -8,7 +8,6 @@
 **My Discord** - Buff#7415 <br>
 **Unturned Store** - https://unturnedstore.com/users/181 <br>
 **My Support Server** - discord.gg/b8EfdJPpPS
-**My Number** - 0539 556 67 96
 
 ### 🛠 &nbsp;Tech Stack
 
